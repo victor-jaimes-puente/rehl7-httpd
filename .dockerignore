@@ -1,0 +1,7 @@
+/modules
+/modules/
+/modules/*
+.*
+
+*.md
+!README.md
